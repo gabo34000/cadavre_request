@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+ Le Cave
+=======
+Le cave est quelqu'un de gentil mais d'un peu bête également. Ses passe-temps favoris sont de voler dans les rayons de monoprix et de regarder avec ses jumelles les fênetres de immeubles en face. Sa curiosité sans egal faisant qu'il est un peu voyeur sur les bords.
+>>>>>>> 66c101bdb90430b5716cc701e15c9257e6d3842d
